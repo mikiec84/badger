@@ -13,7 +13,7 @@
     "request": "^2.55.0"
   },
   "devDependencies": {
-    "foreman": "^1.4.0",
+    "foreman": "^3.0.1",
     "protractor": "5.1.2"
   },
   "scripts": {
